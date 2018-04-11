@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hrod28/inbox.git"
+    "url": "git+https://github.com/hrod28/lottery.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hrod28/inbox/issues"
+    "url": "https://github.com/hrod28/lottery/issues"
   },
-  "homepage": "https://github.com/hrod28/inbox#readme",
+  "homepage": "https://github.com/hrod28/lottery#readme",
   "dependencies": {
     "ganache-cli": "^6.1.0",
     "mocha": "^5.0.5",
